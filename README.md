@@ -1,4 +1,7 @@
 ### Hi there 👋
+📫 Reach me at :
+- [https://woensug-choi.github.io/](https://woensug-choi.github.io/)
+- woensug.choi@gmail.com
 
 <!--
 **woensug-choi/woensug-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
